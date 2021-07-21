@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    background-color: mintcream;
+}
+
+.test {
+
+}
+
+.header {
+    background-color: darkblue;
+}
+
+.App-logo {
+    float:left;
+    width: 10%;
+    height: 10%;
+}
