@@ -3,16 +3,17 @@ body {
     background-color: mintcream;
 }
 
-.test {
-
-}
-
 .header {
-    background-color: darkblue;
+    background-color: #9bf299;
+    margin-top: 0;
 }
 
 .App-logo {
     float:left;
     width: 10%;
     height: 10%;
+}
+
+h1 {
+    margin: 0;
 }
